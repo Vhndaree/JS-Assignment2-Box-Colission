@@ -1,0 +1,4 @@
+const CONTAINER_WIDTH_HEIGHT = 800;
+const BOX_HEIGHT = 30;
+const BOX_WIDTH = 30;
+const DIRECTION = 2;
